@@ -38,7 +38,7 @@ int dato_matricula;
 char dato_nombre;
 int main()
 {
-    char asignaturas;
+    char asignaturas; // tipo de variable incorrecto
     int i, n;
     printf("Digite el numero de estudiantes a calificar: ");
     scanf("%d", &n);
@@ -197,7 +197,7 @@ void ordenar_por_nombre_o_por_matricula(struct Estudiante, int n){
 
 void ordenar_e_imprimir_por_nota(struct Estudiante, int n){
     int aux, i, j;
-    float nota[]= promedio_de_todos_los_estudiantes(estudiantes, n);
+    float nota[]= promedio_de_todos_los_estudiantes(estudiantes, n); //promedio no retorna arreglo
     for(i=0; i<n; i++){
         for(j=0; j<n; j++){
             if(nota[j] > nota[j+1]){
