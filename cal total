@@ -1,0 +1,18 @@
+		Calificación	Comentarios
+5.90%	Ejercicio 1.a	3	memoria reservada incorrectamente y tipos de variables incorrectos
+5.90%	Ejercicio 1.b	5.9	
+5.90%	Ejercicio 1.c	5.9	
+5.90%	Ejercicio 1.d	3.9	no incluir scanf en esa funcion. El promedio no fue calculado correctamente
+5.90%	Ejercicio 1.e	4.9	no se inicializó prom. El return va fuera del for
+5.90%	Ejercicio 1.f	0	
+5.90%	Ejercicio 1.g	5	recibir matricula como parametro
+5.90%	Ejercicio 1.h	4.5	recibir nombre como parametro. Usar strcmp
+5.90%	Ejercicio 1.i	5	la condicion debia se combinada con &&
+5.90%	Ejercicio 1.j	5.9	
+5.90%	Ejercicio 1.k	5.9	
+5.90%	Ejercicio 2	5.9	
+30%	Test Cases	0	
+			
+			
+Calificacion total (100%)			
+55.8			
